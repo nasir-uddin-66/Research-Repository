@@ -80,10 +80,3 @@ Evaluation follows **Leave-One-Site-Out (LOSO)** — each site is held out entir
 Code and notebooks will be made publicly available upon completion of the research.
 
 ---
-
-## 📬 Contact
-
-**Ali Mohammad Nasir Uddin**  
-BSc in Computer Science and Engineering, IUBAT  
-📧 22103395@iubat.edu  
-🔗 [LinkedIn](#) · [ResearchGate](#)
