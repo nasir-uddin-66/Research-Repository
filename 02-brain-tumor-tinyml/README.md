@@ -62,9 +62,5 @@ Full code, architecture details, and results will be made publicly available in 
 
 ---
 
-## 📬 Contact
-
 **Ali Mohammad Nasir Uddin** *(Corresponding Author)*  
-BSc in Computer Science and Engineering, IUBAT  
-📧 22103395@iubat.edu  
-🔗 [LinkedIn](#) · [ResearchGate](#)
+
