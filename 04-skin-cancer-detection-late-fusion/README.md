@@ -33,14 +33,7 @@ clinical data alone.
 - Decision-level late fusion with probability calibration
 - Clinically motivated threshold selection to prioritise sensitivity over specificity
 - Explainability via Grad-CAM (image stream) and SHAP (metadata stream)
-
----
-
-## 📦 Dataset
-
-**PAD-UFES-20** — publicly available Brazilian clinical skin lesion dataset  
-> Pacheco et al. (2020). *Data in Brief*. [doi:10.1016/j.dib.2020.106221](https://doi.org/10.1016/j.dib.2020.106221)
-
+  
 ---
 
 ## 💻 Code
@@ -49,9 +42,3 @@ Code will be made publicly available upon completion.
 
 ---
 
-## 📬 Contact
-
-**Ali Mohammad Nasir Uddin**  
-BSc in Computer Science and Engineering, IUBAT  
-📧 22103395@iubat.edu  
-🔗 [LinkedIn](#) · [ResearchGate](#)
