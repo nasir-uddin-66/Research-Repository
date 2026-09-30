@@ -1,7 +1,7 @@
 # 🔍 Data Leakage and Undisclosed Provenance in Public Brain Tumor MRI Datasets: A Systematic Audit
 
 > **Status:** 🔄 Under Peer Review — *Journal of Imaging Informatics in Medicine* (Springer Nature)  
-> **Full methodology & results:** Will be released upon publication.
+> **Code & full details:** Will be released upon acceptance and publication.
 
 **Authors:** Ali Mohammad Nasir Uddin *(Corresponding)* · Khandoker Momotaz Ferdouse  
 **Affiliation:** Department of Computer Science and Engineering, IUBAT — International University of Business Agriculture and Technology, Dhaka, Bangladesh
@@ -46,7 +46,7 @@ This work does not propose a new classifier. Instead, it audits **the data that 
 - A cross-dataset provenance analysis mapping undisclosed overlap across the dataset ecosystem, with independent manual validation.
 - A controlled experiment isolating the effect of image-level vs. patient-level splitting on reported model performance.
 - A practical **checklist for dataset creators and downstream researchers** to prevent the failure modes identified.
-- A released image-level manifest and detection pipeline to support future audits.
+- An image-level manifest and detection pipeline to support future audits *(to be released upon publication)*.
 
 ---
 
@@ -76,10 +76,9 @@ Seven publicly available brain tumor MRI datasets (34,525 images total), grouped
 
 ---
 
-## 💻 Code & Data
+## 💻 Code
 
-The image-level manifest and analysis code are available in the companion repository:
-**[nasir-uddin-66/Brain-Tumor-Leakage-Audit](https://github.com/nasir-uddin-66/Brain-Tumor-Leakage-Audit)**
+Full code, the image-level manifest, and results will be made publicly available upon acceptance and publication.
 
 The audited datasets are publicly available from their original sources.
 

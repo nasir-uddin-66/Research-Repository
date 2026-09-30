@@ -83,8 +83,7 @@ A research project investigating cross-site generalization in cardiovascular dis
 A systematic data-curation audit of seven widely used public brain tumor MRI datasets (34,525 images). Rather than proposing a new classifier, it examines the benchmarks themselves: train/test leakage within datasets, undisclosed image overlap between datasets routinely treated as independent, and how much image-level splitting inflates accuracy relative to patient-level splitting. Measurable internal leakage was found in 3 of 4 datasets with predefined splits, and cross-dataset overlap ranged from roughly 11% to 76%. The work closes with a practical checklist for dataset creators and downstream researchers.
 
 📦 Datasets: Figshare (Cheng et al.) · Nickparvar · BRISC · Sartaj · Br35H · Rahman · BDNeuro-MRI · 🛠 PyTorch, scikit-image, imagehash  
-📰 Under peer review — *Journal of Imaging Informatics in Medicine* (Springer Nature)  
-💻 Code & manifest: [Brain-Tumor-Leakage-Audit](https://github.com/nasir-uddin-66/Brain-Tumor-Leakage-Audit)
+📰 Under peer review — *Journal of Imaging Informatics in Medicine* (Springer Nature)
 
 ---
 
@@ -108,7 +107,7 @@ Medical AI · TinyML & Edge Deployment · Explainable AI · Domain Generalizatio
 
 ---
 
-> *All research conducted independently or under academic supervision at IUBAT. Code for completed and published works will be made publicly available upon publication.*
+> *All research conducted independently or under academic supervision at IUBAT. Thesis notebooks are included in this repository. Code for all papers will be made publicly available upon acceptance and publication.*
 
 ---
 ## 📬 Contact
