@@ -2,7 +2,7 @@
 
 **BSc in Computer Science and Engineering**  
 IUBAT — International University of Business Agriculture and Technology, Dhaka, Bangladesh  
-📧 22103395@iubat.edu · 
+📧 22103395@iubat.edu · 🔗 [GitHub](https://github.com/nasir-uddin-66)
 
 ---
 
@@ -18,11 +18,12 @@ I build this expertise independently through research projects. All projects lis
 
 | # | Project | Domain | Status |
 |---|---|---|---|
-| 01 | [Edge-Deployable TinyML for Breast Cancer Detection](#01-breast-cancer-tinyml) | TinyML · Medical Imaging | ✅ Completed · 📤 Paper Submitted |
-| 02 | [Brain-CNNViT: Lightweight TinyML for Brain Tumor Classification](#02-brain-tumor-tinyml) | TinyML · Medical Imaging | 🔄 Under Peer Review (Springer Nature) |
-| 03 | [Metadata-Based ML for Skin Lesion Malignancy Prediction](#03-skin-cancer-metadata-ml) | Tabular ML · Clinical AI | 📤 Submitted (Elsevier) |
-| 04 | [Multimodal Skin Lesion Triage: CNN-Transformer + Metadata Fusion](#04-multimodal-skin-triage) | Multimodal Learning · Medical AI | 🔧 Work in Progress |
-| 05 | [Missingness-Aware Domain Generalization for Cardiovascular Disease](#05-cardiovascular-domain-generalization) | Domain Generalization · Clinical ML | 🔧 Early-Stage Research |
+| 01 | [Edge-Deployable TinyML for Breast Cancer Detection](01-Thesis/) | TinyML · Medical Imaging | ✅ Completed · 📤 Paper Submitted |
+| 02 | [Brain-CNNViT: Lightweight TinyML for Brain Tumor Classification](02-brain-tumor-tinyml/) | TinyML · Medical Imaging | 🔄 Under Peer Review (Springer Nature) |
+| 03 | [Metadata-Based ML for Skin Lesion Malignancy Prediction](03-skin-cancer-malignancy-prediction/) | Tabular ML · Clinical AI | 📤 Submitted (Elsevier) |
+| 04 | [Multimodal Skin Lesion Triage: CNN-Transformer + Metadata Fusion](04-skin-cancer-detection-late-fusion/) | Multimodal Learning · Medical AI | 🔧 Work in Progress |
+| 05 | [Missingness-Aware Domain Generalization for Cardiovascular Disease](05-cardiovascular-domain-generalization/) | Domain Generalization · Clinical ML | 🔧 Early-Stage Research |
+| 06 | [Data Leakage & Undisclosed Provenance in Public Brain Tumor MRI Datasets](06-brain-tumor-dataset-leakage-audit/) | Data-Centric AI · Reproducibility | 📝 Manuscript Complete |
 
 ---
 
@@ -58,7 +59,7 @@ An imaging-free machine learning framework for binary skin lesion malignancy pre
 ---
 
 ### 04 · Multimodal Skin Lesion Triage
-**`04-04-skin-cancer-detection-late-fusion/`**
+**`04-skin-cancer-detection-late-fusion/`**
 
 An ongoing project developing a dual-stream framework that integrates smartphone-captured clinical images with structured patient metadata for skin lesion malignancy triage. The system combines a CNN-Transformer visual classifier with a calibrated gradient-boosted metadata model, fused at the decision level. Designed for resource-constrained, primary care settings where dermoscopic imaging is unavailable.
 
@@ -72,6 +73,16 @@ An ongoing project developing a dual-stream framework that integrates smartphone
 An early-stage research project investigating cross-site generalization in cardiovascular disease prediction. Preliminary experiments using Leave-One-Site-Out evaluation reveal a substantial performance gap compared to conventional random-split evaluation — motivating the proposed method: missingness-aware domain generalization. The research examines whether explicitly modeling site-specific missing-data patterns, combined with calibration-aware training, can produce more reliable predictions on completely unseen clinical sites.
 
 📦 Dataset: UCI Heart Disease (4 sites: Cleveland, Hungary, Switzerland, VA Long Beach) · 🛠 PyTorch, scikit-learn, GroupDRO, CORAL
+
+---
+
+### 06 · Brain Tumor MRI Dataset Leakage Audit
+**`06-brain-tumor-dataset-leakage-audit/`**
+
+A systematic data-curation audit of seven widely used public brain tumor MRI datasets (34,525 images). Rather than proposing a new classifier, it examines the benchmarks themselves: train/test leakage within datasets, undisclosed image overlap between datasets routinely treated as independent, and how much image-level splitting inflates accuracy relative to patient-level splitting. Measurable internal leakage was found in 3 of 4 datasets with predefined splits, and cross-dataset overlap ranged from roughly 11% to 76%. The work closes with a practical checklist for dataset creators and downstream researchers.
+
+📦 Datasets: Figshare (Cheng et al.) · Nickparvar · BRISC · Sartaj · Br35H · Rahman · BDNeuro-MRI · 🛠 PyTorch, scikit-image, imagehash  
+💻 Code & manifest: [Brain-Tumor-Leakage-Audit](https://github.com/nasir-uddin-66/Brain-Tumor-Leakage-Audit)
 
 ---
 
@@ -91,7 +102,7 @@ An early-stage research project investigating cross-site generalization in cardi
 
 ## 📄 Research Interests
 
-Medical AI · TinyML & Edge Deployment · Explainable AI · Domain Generalization · Multimodal Learning · Clinical Decision Support · Tabular Machine Learning
+Medical AI · TinyML & Edge Deployment · Explainable AI · Domain Generalization · Multimodal Learning · Clinical Decision Support · Tabular Machine Learning · Data-Centric AI · Reproducible ML
 
 ---
 
@@ -103,5 +114,4 @@ Medical AI · TinyML & Edge Deployment · Explainable AI · Domain Generalizatio
 **Ali Mohammad Nasir Uddin**  
 BSc in Computer Science and Engineering, IUBAT  
 📧 22103395@iubat.edu  
----
-
+🔗 [github.com/nasir-uddin-66](https://github.com/nasir-uddin-66)
