@@ -1,13 +1,13 @@
 # 🔬 Patient-Aware Metadata-Based Machine Learning for Skin Lesion Malignancy Prediction
 
-> **Status:** 📤 Submitted — *Computers in Biology and Medicine* (Elsevier) · Currently with Editor  
+> **Status:** 🔄 Under Peer Review — *Journal of Umm Al-Qura University for Medical Sciences* (Springer Nature)  
 > **Code & full details:** Will be released upon acceptance and publication.
 
 **Authors:** Ali Mohammad Nasir Uddin *(Corresponding)* · Khandoker Momotaz Ferdouse  
 **Affiliation:** Department of Computer Science and Engineering, IUBAT — International University of Business Agriculture and Technology, Dhaka, Bangladesh
 
-![Status](https://img.shields.io/badge/Status-Submitted-orange)
-![Journal](https://img.shields.io/badge/Journal-Elsevier-red)
+![Status](https://img.shields.io/badge/Status-Under%20Peer%20Review-yellow)
+![Journal](https://img.shields.io/badge/Journal-Springer%20Nature-red)
 ![Domain](https://img.shields.io/badge/Domain-Medical%20AI%20%7C%20Tabular%20ML-blue)
 ![Task](https://img.shields.io/badge/Task-Skin%20Cancer%20Malignancy%20Prediction-lightblue)
 
@@ -48,7 +48,7 @@ Challenge set (held-out): **Actinic Keratosis (ACK)** — premalignant, excluded
   author      = {Ali Mohammad Nasir Uddin and Khandoker Momotaz Ferdouse},
   title       = {Patient-Aware Metadata-Based Machine Learning for Skin Lesion Malignancy Prediction},
   year        = {2025},
-  note        = {Submitted, Computers in Biology and Medicine (Elsevier)},
+  note        = {Under review, Journal of Umm Al-Qura University for Medical Sciences (Springer Nature)},
   institution = {IUBAT — International University of Business Agriculture and Technology, Dhaka, Bangladesh}
 }
 ```

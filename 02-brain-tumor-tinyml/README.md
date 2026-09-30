@@ -1,6 +1,6 @@
 # 🧠 Brain-CNNViT: Lightweight CNN-ViT Hybrid TinyML Framework for Brain Tumor Classification
 
-> **Status:** 🔄 Under Peer Review — *Journal of Umm Al-Qura University for Medical Science* (Springer Nature)  
+> **Status:** 🔄 Under Peer Review — *Journal of Umm Al-Qura University for Medical Sciences* (Springer Nature)  
 > **Code & full details:** Will be released upon acceptance and publication.
 
 **Authors:** Khandoker Momotaz Ferdouse · Ali Mohammad Nasir Uddin *(Corresponding)*  
@@ -49,7 +49,7 @@ Classification task: **Glioma · Meningioma · Pituitary · No-Tumor**
   author      = {Khandoker Momotaz Ferdouse and Ali Mohammad Nasir Uddin},
   title       = {Lightweight {CNN-ViT} Hybrid {TinyML} Framework for Brain Tumor Classification},
   year        = {2025},
-  note        = {Under review, Journal of Umm Al-Qura University for Medical Science (Springer Nature)},
+  note        = {Under review, Journal of Umm Al-Qura University for Medical Sciences (Springer Nature)},
   institution = {IUBAT — International University of Business Agriculture and Technology, Dhaka, Bangladesh}
 }
 ```

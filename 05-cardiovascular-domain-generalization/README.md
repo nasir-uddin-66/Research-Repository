@@ -1,11 +1,11 @@
 # 🫀 Missingness-Aware Domain Generalization for Cross-Site Cardiovascular Disease Prediction
 
-> **Status:** 🔧 Early-Stage Research — Baseline experiments completed, proposed method under development
+> **Status:** 📤 Submitted — *Network Modeling Analysis in Health Informatics and Bioinformatics* (Springer Nature)
 
 **Researcher:** Ali Mohammad Nasir Uddin  
 **Affiliation:** Department of Computer Science and Engineering, IUBAT — International University of Business Agriculture and Technology, Dhaka, Bangladesh
 
-![Status](https://img.shields.io/badge/Status-Early%20Stage-orange)
+![Status](https://img.shields.io/badge/Status-Submitted-orange)
 ![Domain](https://img.shields.io/badge/Domain-Clinical%20ML%20%7C%20Domain%20Generalization-blue)
 ![Task](https://img.shields.io/badge/Task-Cardiovascular%20Disease%20Prediction-red)
 
@@ -68,16 +68,16 @@ Evaluation follows **Leave-One-Site-Out (LOSO)** — each site is held out entir
 - ✅ Baseline conventional ML experiments (Random Split and LOSO)
 - ✅ Missingness analysis and calibration analysis across sites
 - ✅ Initial literature review and research gap identification
-- 🔧 Proposed method design and implementation *(in progress)*
-- ⬜ Ablation study
-- ⬜ Statistical comparison and uncertainty analysis
-- ⬜ Paper writing
+- ✅ Proposed method design and implementation
+- ✅ Ablation study
+- ✅ Statistical comparison and uncertainty analysis
+- ✅ Paper writing and journal submission
 
 ---
 
 ## 💻 Code
 
-Code and notebooks will be made publicly available upon completion of the research.
+Code and notebooks will be made publicly available upon acceptance and publication.
 
 ---
 

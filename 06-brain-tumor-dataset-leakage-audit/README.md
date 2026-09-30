@@ -1,12 +1,13 @@
 # 🔍 Data Leakage and Undisclosed Provenance in Public Brain Tumor MRI Datasets: A Systematic Audit
 
-> **Status:** 📝 Manuscript Complete · Preparing for journal submission  
+> **Status:** 🔄 Under Peer Review — *Journal of Imaging Informatics in Medicine* (Springer Nature)  
 > **Full methodology & results:** Will be released upon publication.
 
 **Authors:** Ali Mohammad Nasir Uddin *(Corresponding)* · Khandoker Momotaz Ferdouse  
 **Affiliation:** Department of Computer Science and Engineering, IUBAT — International University of Business Agriculture and Technology, Dhaka, Bangladesh
 
-![Status](https://img.shields.io/badge/Status-Manuscript%20Complete-blueviolet)
+![Status](https://img.shields.io/badge/Status-Under%20Peer%20Review-yellow)
+![Journal](https://img.shields.io/badge/Journal-Springer%20Nature-red)
 ![Domain](https://img.shields.io/badge/Domain-Medical%20AI%20%7C%20Data--Centric%20AI-blue)
 ![Task](https://img.shields.io/badge/Task-Dataset%20Integrity%20Audit-lightblue)
 ![Datasets](https://img.shields.io/badge/Datasets%20Audited-7-green)
@@ -91,7 +92,7 @@ The audited datasets are publicly available from their original sources.
   author      = {Ali Mohammad Nasir Uddin and Khandoker Momotaz Ferdouse},
   title       = {Data Leakage and Undisclosed Provenance in Public Brain Tumor {MRI} Datasets: A Systematic Audit},
   year        = {2026},
-  note        = {Manuscript in preparation},
+  note        = {Under review, Journal of Imaging Informatics in Medicine (Springer Nature)},
   institution = {IUBAT — International University of Business Agriculture and Technology, Dhaka, Bangladesh}
 }
 ```
