@@ -1,6 +1,6 @@
 # 🫀 Missingness-Aware Domain Generalization for Cross-Site Cardiovascular Disease Prediction
 
-> **Status:** 📤 Submitted — *Network Modeling Analysis in Health Informatics and Bioinformatics* (Springer Nature)
+> **Status:** 📤 Under Peer Review — *Discover Informatics* (Springer Nature)
 
 **Researcher:** Ali Mohammad Nasir Uddin  
 **Affiliation:** Department of Computer Science and Engineering, IUBAT — International University of Business Agriculture and Technology, Dhaka, Bangladesh
