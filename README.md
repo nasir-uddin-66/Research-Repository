@@ -73,7 +73,7 @@ An ongoing project developing a dual-stream framework that integrates smartphone
 A research project investigating cross-site generalization in cardiovascular disease prediction. Preliminary experiments using Leave-One-Site-Out evaluation reveal a substantial performance gap compared to conventional random-split evaluation — motivating the proposed method: missingness-aware domain generalization. The research examines whether explicitly modeling site-specific missing-data patterns, combined with calibration-aware training, can produce more reliable predictions on completely unseen clinical sites.
 
 📦 Dataset: UCI Heart Disease (4 sites: Cleveland, Hungary, Switzerland, VA Long Beach) · 🛠 PyTorch, scikit-learn, GroupDRO, CORAL  
-📰 Submitted — *Network Modeling Analysis in Health Informatics and Bioinformatics* (Springer Nature)
+📰 Under peer review — *Network Modeling Analysis in Health Informatics and Bioinformatics* (Springer Nature)
 
 ---
 
@@ -83,7 +83,7 @@ A research project investigating cross-site generalization in cardiovascular dis
 A systematic data-curation audit of seven widely used public brain tumor MRI datasets (34,525 images). Rather than proposing a new classifier, it examines the benchmarks themselves: train/test leakage within datasets, undisclosed image overlap between datasets routinely treated as independent, and how much image-level splitting inflates accuracy relative to patient-level splitting. Measurable internal leakage was found in 3 of 4 datasets with predefined splits, and cross-dataset overlap ranged from roughly 11% to 76%. The work closes with a practical checklist for dataset creators and downstream researchers.
 
 📦 Datasets: Figshare (Cheng et al.) · Nickparvar · BRISC · Sartaj · Br35H · Rahman · BDNeuro-MRI · 🛠 PyTorch, scikit-image, imagehash  
-📰 Under peer review — *Journal of Imaging Informatics in Medicine* (Springer Nature)
+📰 Under revision process — *Journal of Imaging Informatics in Medicine* (Springer Nature)
 
 ---
 
