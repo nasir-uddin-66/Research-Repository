@@ -1,0 +1,15 @@
+{
+ "backbone": "densenet121",
+ "params_M": 31.14881,
+ "best_epoch": 2,
+ "epochs_run": 7,
+ "train_minutes": 20.850469319025674,
+ "temperature": 1.3835538625717163,
+ "threshold": 0.3882312232773633,
+ "val_sensitivity": 0.9506172839506173,
+ "val_specificity": 0.9862068965517241,
+ "val_auc": 0.984759472115794,
+ "skipped_steps": 3,
+ "rollbacks": 0,
+ "sha256": "e051b2364131e67eb3c5cda6eb54785638b71f803b0b6cfa7ccb04c225f268c4"
+}

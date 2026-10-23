@@ -1,0 +1,15 @@
+{
+ "backbone": "resnet34",
+ "params_M": 87.94369,
+ "best_epoch": 3,
+ "epochs_run": 8,
+ "train_minutes": 8.564220054944355,
+ "temperature": 1.3451532125473022,
+ "threshold": 0.5336639763138417,
+ "val_sensitivity": 0.9506172839506173,
+ "val_specificity": 1.0,
+ "val_auc": 0.9972754363558961,
+ "skipped_steps": 2,
+ "rollbacks": 0,
+ "sha256": "1937c97487b704afb5010ce15b81a82b2bf7f129333b25e9e1580ced720fae1d"
+}

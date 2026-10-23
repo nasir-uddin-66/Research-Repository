@@ -1,0 +1,15 @@
+{
+ "variant": "gated",
+ "params_M": 98.576386,
+ "best_epoch": 1,
+ "epochs_run": 6,
+ "train_minutes": 15.7466832836469,
+ "temperature": 0.589377224445343,
+ "threshold": 0.6201530081146535,
+ "val_sensitivity": 0.9629629629629629,
+ "val_specificity": 0.993103448275862,
+ "val_auc": 0.9919965942954448,
+ "skipped_steps": 2,
+ "rollbacks": 0,
+ "sha256": "ae0b47b138b3e4386bfead001de14737191b1a0622b612a39cdffd1fcfac1a31"
+}

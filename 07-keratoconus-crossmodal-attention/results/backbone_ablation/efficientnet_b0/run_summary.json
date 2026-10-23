@@ -1,0 +1,15 @@
+{
+ "backbone": "efficientnet_b0",
+ "params_M": 19.62777,
+ "best_epoch": 3,
+ "epochs_run": 8,
+ "train_minutes": 11.755725900332132,
+ "temperature": 1.4991092681884766,
+ "threshold": 0.49069791598411605,
+ "val_sensitivity": 0.9506172839506173,
+ "val_specificity": 1.0,
+ "val_auc": 0.9952320136228183,
+ "skipped_steps": 4,
+ "rollbacks": 0,
+ "sha256": "7a8c792de23893d2b874c6ef474a0eb33360dc70134a7ba1507592af4da4654f"
+}

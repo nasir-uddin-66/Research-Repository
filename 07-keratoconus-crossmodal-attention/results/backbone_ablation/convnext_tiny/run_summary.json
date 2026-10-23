@@ -1,0 +1,15 @@
+{
+ "backbone": "convnext_tiny",
+ "params_M": 114.343562,
+ "best_epoch": 1,
+ "epochs_run": 6,
+ "train_minutes": 10.100966421763102,
+ "temperature": 0.8165851831436157,
+ "threshold": 0.17802832996267517,
+ "val_sensitivity": 0.9629629629629629,
+ "val_specificity": 0.993103448275862,
+ "val_auc": 0.991400595998297,
+ "skipped_steps": 5,
+ "rollbacks": 0,
+ "sha256": "c762edd22539302cc95a4863db04e023747e4a331f7a9cc2e17106c07a3cbcea"
+}

@@ -1,0 +1,15 @@
+{
+ "variant": "self_all",
+ "params_M": 98.422282,
+ "best_epoch": 2,
+ "epochs_run": 7,
+ "train_minutes": 18.07840847969055,
+ "temperature": 1.4233226776123047,
+ "threshold": 0.2506361341445234,
+ "val_sensitivity": 0.9506172839506173,
+ "val_specificity": 0.993103448275862,
+ "val_auc": 0.9893571732652191,
+ "skipped_steps": 2,
+ "rollbacks": 0,
+ "sha256": "3ffa8e6e645e1337743cb5dd89bf30f46204fc4b3c28391dfd9408b91260b906"
+}

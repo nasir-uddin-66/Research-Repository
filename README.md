@@ -24,6 +24,7 @@ I build this expertise independently through research projects. All projects lis
 | 04 | [Multimodal Skin Lesion Triage: CNN-Transformer + Metadata Fusion](04-skin-cancer-detection-late-fusion/) | Multimodal Learning · Medical AI | 🔧 Work in Progress |
 | 05 | [Missingness-Aware Domain Generalization for Cardiovascular Disease](05-cardiovascular-domain-generalization/) | Domain Generalization · Clinical ML | 📤 Under Peer Review (Discover Informetics) |
 | 06 | [Data Leakage & Undisclosed Provenance in Public Brain Tumor MRI Datasets](06-brain-tumor-dataset-leakage-audit/) | Data-Centric AI · Reproducibility | 🔄 Under Revision Process (Journal of Imaging Informatics in Medicine) |
+| 07 | [Keratoconus Detection with Cross-Modal Attention Fusion of Corneal Maps](07-keratoconus-crossmodal-attention/) | Multimodal Learning · Medical Imaging | 🔧 Manuscript in Preparation |
 
 ---
 
@@ -84,6 +85,15 @@ A systematic data-curation audit of seven widely used public brain tumor MRI dat
 
 📦 Datasets: Figshare (Cheng et al.) · Nickparvar · BRISC · Sartaj · Br35H · Rahman · BDNeuro-MRI · 🛠 PyTorch, scikit-image, imagehash  
 📰 Under revision process — *Journal of Imaging Informatics in Medicine* (Springer Nature)
+
+---
+
+### 07 · Keratoconus Detection from Four Corneal Maps
+**`07-keratoconus-crossmodal-attention/`**
+
+A keratoconus classifier that fuses four corneal maps (anterior elevation, axial curvature, pachymetry, posterior elevation) with ResNet-50 encoders, scaled-cosine cross-modal attention and a learned modality gate. Trained on ORBSCAN maps (CornORB) and tested zero-shot on an independent Pentacam cohort, with temperature and threshold fitted on ORBSCAN validation only. Reaches 0.993 AUC on the external Pentacam cohort (accuracy 0.954, sensitivity 0.914, specificity 0.995). Backbone and fusion ablations with paired DeLong tests show how strongly accuracy under device shift depends on design choices, even when AUC stays high.
+
+📦 Datasets: CornORB (Zenodo) · Pentacam keratoconus cohort (Kaggle) · 🛠 PyTorch, Grad-CAM, DeLong test, bootstrap CIs
 
 ---
 

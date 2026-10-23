@@ -1,0 +1,17 @@
+model,cohort,auc_variant,auc_main,difference,ci_low,ci_high,delong_p
+resnet18,Internal ORBSCAN,0.9991,0.9997,-0.0007,-0.0021,0.0,0.1751
+resnet18,External Pentacam,0.9876,0.9934,-0.0057,-0.012,-0.0001,0.0606
+resnet34,Internal ORBSCAN,0.9976,0.9997,-0.0022,-0.0055,-0.0002,0.1089
+resnet34,External Pentacam,0.9831,0.9934,-0.0103,-0.017,-0.0043,0.0013
+resnet101,Internal ORBSCAN,0.9993,0.9997,-0.0004,-0.0017,0.0005,0.4018
+resnet101,External Pentacam,0.9713,0.9934,-0.022,-0.034,-0.0117,0.0002
+densenet121,Internal ORBSCAN,0.999,0.9997,-0.0007,-0.0024,0.0004,0.3019
+densenet121,External Pentacam,0.9795,0.9934,-0.0139,-0.0236,-0.0065,0.001
+efficientnet_b0,Internal ORBSCAN,0.9989,0.9997,-0.0008,-0.0024,0.0001,0.1815
+efficientnet_b0,External Pentacam,0.8763,0.9934,-0.1171,-0.1539,-0.0841,0.0
+convnext_tiny,Internal ORBSCAN,0.9981,0.9997,-0.0016,-0.0046,0.0001,0.1653
+convnext_tiny,External Pentacam,0.9838,0.9934,-0.0096,-0.0171,-0.0033,0.0068
+fusion: gated,Internal ORBSCAN,0.9971,0.9997,-0.0026,-0.0065,-0.0004,0.0642
+fusion: gated,External Pentacam,0.9756,0.9934,-0.0178,-0.0315,-0.0062,0.0052
+fusion: self_all,Internal ORBSCAN,0.9991,0.9997,-0.0007,-0.002,0.0,0.1523
+fusion: self_all,External Pentacam,0.9905,0.9934,-0.0029,-0.0078,0.0013,0.1912

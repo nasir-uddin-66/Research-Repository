@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this code or the released weights, please cite this repository. The paper reference will be added after publication."
+title: "Keratoconus detection from four corneal maps with cross-modal attention fusion"
+type: software
+authors:
+  - family-names: "Uddin"
+    given-names: "Ali Mohammad Nasir"
+    affiliation: "International University of Business Agriculture and Technology (IUBAT), Dhaka, Bangladesh"
+repository-code: "https://github.com/nasir-uddin-66/Research-Repository/tree/main/07-keratoconus-crossmodal-attention"
+license: MIT
+date-released: 2026-10-23
+keywords:
+  - keratoconus
+  - corneal topography
+  - multimodal fusion
+  - cross-attention
+  - external validation
+references:
+  - type: dataset
+    title: "CornORB: keratoconus multimodal ORBSCAN dataset"
+    doi: "10.5281/zenodo.17121301"
+  - type: dataset
+    title: "Keratoconus detection (Pentacam), Kaggle"
+    authors:
+      - alias: "elmehdi12"
+    url: "https://www.kaggle.com/datasets/elmehdi12/keratoconus-detection"
