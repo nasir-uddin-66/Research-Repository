@@ -1,6 +1,6 @@
-# 🔍 Data Leakage and Undisclosed Provenance in Public Brain Tumor MRI Datasets: A Systematic Audit
+# 🔍 Data Leakage and Unverified Provenance in Public Brain Tumor MRI Datasets: A Systematic Audit
 
-> **Status:** 🔄 Under Revision Process — *Journal of Imaging Informatics in Medicine* (Springer Nature)  
+> **Status:** Accepted 🔥 — *Journal of Imaging Informatics in Medicine* (Springer Nature)  
 > **Code & full details:** Will be released upon acceptance and publication.
 
 **Authors:** Ali Mohammad Nasir Uddin *(Corresponding)* · Khandoker Momotaz Ferdouse  
