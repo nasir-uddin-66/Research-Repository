@@ -23,8 +23,8 @@ I build this expertise independently through research projects. All projects lis
 | 03 | [Metadata-Based ML for Skin Lesion Malignancy Prediction](03-skin-cancer-malignancy-prediction/) | Tabular ML · Clinical AI | 🔄 Under Peer Review (Journal of Umm Al-Qura University for Medical Sciences) |
 | 04 | [Multimodal Skin Lesion Triage: CNN-Transformer + Metadata Fusion](04-skin-cancer-detection-late-fusion/) | Multimodal Learning · Medical AI | 🔧 Work in Progress |
 | 05 | [Missingness-Aware Domain Generalization for Cardiovascular Disease](05-cardiovascular-domain-generalization/) | Domain Generalization · Clinical ML | 📤 Under Peer Review (Discover Informetics) |
-| 06 | [Data Leakage & Undisclosed Provenance in Public Brain Tumor MRI Datasets](06-brain-tumor-dataset-leakage-audit/) | Data-Centric AI · Reproducibility | 🔄 Under Revision Process (Journal of Imaging Informatics in Medicine) |
-| 07 | [Keratoconus Detection with Cross-Modal Attention Fusion of Corneal Maps](07-keratoconus-crossmodal-attention/) | Multimodal Learning · Medical Imaging | 🔧 Manuscript in Preparation |
+| 06 | [Data Leakage & Undisclosed Provenance in Public Brain Tumor MRI Datasets](06-brain-tumor-dataset-leakage-audit/) | Data-Centric AI · Reproducibility | 🔄 Accepted 🔥 (Journal of Imaging Informatics in Medicine) |
+| 07 | [Keratoconus Detection with Cross-Modal Attention Fusion of Corneal Maps](07-keratoconus-crossmodal-attention/) | Multimodal Learning · Medical Imaging | 🔧 Manuscript Submitted (Journal of Imaging Informatics in Medicine) |
 
 ---
 
